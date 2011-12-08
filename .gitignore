@@ -1,0 +1,15 @@
+.DS_Store
+*.iws
+*.class
+tmp
+classes
+out
+web/WEB-INF/classes
+
+/modules
+/test-result
+/logs
+/out
+/lib
+
+public/images/vertical_grid.png
