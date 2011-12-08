@@ -1,4 +1,4 @@
-self: loggly -> loggly 0.1
+self: play-loggly -> play-loggly 0.1
 
 require:
     - play
